@@ -1,10 +1,10 @@
 
-var text = document.getElementById('text')
-var addBtn = document.getElementById('btn')
-var todolist = document.getElementById('todo-list')
-var removeBtn = document.getElementById('removeBtn')
-var updateBtn = document.getElementById('update')
-var count = document.getElementById('count')
+var text = document.getElementById('text');
+var addBtn = document.getElementById('btn');
+var todolist = document.getElementById('todo-list');
+var removeBtn = document.getElementById('removeBtn');
+var updateBtn = document.getElementById('update');
+var count = document.getElementById('count');
 
 var inputVariable = ''
 text.addEventListener('input',function(e){
